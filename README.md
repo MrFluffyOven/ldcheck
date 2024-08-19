@@ -1,4 +1,4 @@
-# clone
+# Clone
     git clone https://github.com/MrFluffyOven/ldcheck.git
 
 # qseecomd
